@@ -1,0 +1,102 @@
+@font-face{
+	font-family: oswald ;
+	src: url(https://fonts.googleapis.com/css?family=Oswald);
+}
+section
+{
+	background-image: url(../images/background.jpg);
+	height: 500px
+}
+li
+{    
+	text-align: center;
+	display: inline-block;
+	padding: 20px;
+	font-family: Oswald; 
+	margin-left: 250px;
+}
+
+.icono
+{
+	margin-top: 100px;
+	margin-left: 600px;
+}
+.nombre
+{
+	margin-top: 50px;
+	margin-left:600px;
+	font-family: Oswald; 
+}
+.yo
+{
+	margin-top: 30px;
+	margin-left:570px;
+	font-family: Oswald; 
+}
+.retrato
+{
+	border:2px solid black;
+	margin-top: 20px;
+}
+.sobre{
+	font-family: Oswald; 
+	text-align:left;
+	margin-top: 20px;	
+}
+.seccion2
+{ background-image:url(../images/tile1.png);
+	height: 350px;
+
+}
+.textocentro{
+	text-align: center;
+	font-family: Oswald; 
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+.col-3 img
+{
+	border-radius: 80%;
+	border: 2px solid purple;
+	height: 150px;
+
+}
+.gatos
+{	
+	float:left;
+	display: inline-block;
+	margin: 0px auto;
+	padding: 20%;
+
+}
+.col4
+{
+	float:left;
+	display: inline-block;
+	margin:0px auto;
+	padding: 10%;
+
+}
+footer
+{
+	background-image: url(../images/tile2.png);
+	height: 400px;
+}
+.abajo 
+{
+	font-family: Oswald; 
+	text-align: center;
+	margin-top: 100px;  
+}
+.social{
+	
+	display: inline-block;
+	position: absolute;
+	margin-left: 200px;
+	height: 100px;
+	margin-top: -350px ;
+
+
+}
+
+
